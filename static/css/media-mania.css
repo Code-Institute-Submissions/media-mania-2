@@ -1,0 +1,13 @@
+/* Google Fonts Banger & Roboto Regular 400 */
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Roboto&display=swap');
+
+#media-mania-brand{
+    font-family:  'Bangers', cursive;
+    font-size: 2em;
+}
+
+#media-mania-navbar, #media-mania-footer{
+    background-color: #6600ff;
+    font-family: 'Roboto', sans-serif;;
+    font-weight: bold;
+}
